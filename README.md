@@ -1,17 +1,77 @@
-## Hi there 👋
-This is my first Git Repository
+# Hi there 👋 I'm Ankit Rawat
 
-<!--
-**ankitrwt-ds/ankitrwt-ds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Data Analyst | Python Developer 
 
-Here are some ideas to get you started:
+🎓 BCA Student at DIT University, Dehradun
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Passionate about Data Analytics and AI. 
+
+---
+
+## 🚀 About Me
+
+- 📊 Aspiring Data Analyst
+- 💻 Java Developer
+- 🌐 Frontend Web Developer
+- 🤖 Currently learning AI for Data Analytics
+- 📚 Always learning new technologies
+- 🎯 Looking for internship opportunities
+
+---
+
+## 🛠️ Skills
+
+### Programming Languages
+
+- Java
+- Python
+- JavaScript
+- SQL
+
+### Web Development
+
+- HTML5
+- CSS3
+- JavaScript
+
+### Data Analytics
+
+- Pandas
+- NumPy
+- Excel
+- Jupyter Notebook
+
+### Tools
+
+- Git
+- GitHub
+- VS Code
+- IntelliJ IDEA
+- MySQL
+
+---
+
+## 🌱 Currently Learning
+
+- Artificial Intelligence
+- Advanced SQL
+
+---
+
+## 📌 Featured Projects
+
+📊 Student Performance Analytics
+
+🧮 Java Calculator
+
+(More projects coming soon...)
+
+---
+
+## 📫 Connect with Me
+
+LinkedIn:
+www.linkedin.com/in/ankit-rawat
+
+Email:
+ankitrwt850@gmail.com
